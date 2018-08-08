@@ -1,17 +1,5 @@
-# Weather运行效果
-   ![ABC](https://github.com/xiangzhihong/Weather/blob/master/screenshot/QQ%E5%9B%BE%E7%89%8720170725090944.jpg) 
-   ![ABC](https://github.com/xiangzhihong/Weather/blob/master/screenshot/QQ%E5%9B%BE%E7%89%8720170725091011.jpg) 
-   ![ABC](https://github.com/xiangzhihong/Weather/blob/master/screenshot/QQ%E5%9B%BE%E7%89%8720170725091023.jpg) 
-   
-
-# 运行前注意
-运行前请参考package.json文件需要的第三方库安装第三方库，或者直接使用npm install 安装依赖库。然后使用命令运行项目：
-
-## Android
-react-native run-android
-
-## ios
-react-native run-ios
+# 目标
+理解每一行源码，充分吸收其中的知识点
 
 
 # 开源协议
